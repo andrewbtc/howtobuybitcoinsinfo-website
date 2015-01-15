@@ -496,16 +496,6 @@ coinjarfiller:
       <p>CoinJar Filler™ aims to be the best and cheapest way to buy and sell Bitcoin. We charge only 2% for buying and 1.1% for selling. Get Bitcoin in your wallet or cash in your bank account quickly.</p>
   coins: [btc]
 
-bitxoin:
-  label: bitXoin
-  icon: /favicon.png
-  location: [au]
-  countries: [au]
-  url: https://www.bitXoin.com
-  content: |
-      <p>Using bitXoin makes buying bitcoins using cash as easy as 1 - 2 - 3. Forget long wait-times and non-responsive transacting by using our easy to use brokerage platform, and making cash deposits over the counter.</p>
-  coins: [btc]
-
 bittylicious:
   label: Bittylicious
   icon: /favicon.png
@@ -773,15 +763,6 @@ bitsofgold:
   icon: https://www.bitsofgold.co.il/assets/favicon_32x32-a29b74909e46ce37a5fd304ec027fa10.ico
   url: https://www.bitsofgold.co.il
   content: |<p>Buy and Sell bitcoin in Israel, for Israeli Shekel.</p>
-  coins: [btc]
-
-bitcoinaustralia:
-  label: Bitcoin Australia
-  countries: [au]
-  location: [au]
-  icon: /favicon.png
-  url: https://www.getbitcoin.com.au/
-  content: Providing an exchange service to convert Australian dollars to bitcoins. Low exchange rates and fair commission.
   coins: [btc]
 
 coinmkt:
@@ -1273,15 +1254,6 @@ coinclutch:
     <p>CoinClutch Is Your Online Concierge For Purchasing Cryptocurrency!</p>
     <p>Quickly purchase Bitcoin, Litecoin, Dogecoin with CoinClutch. All simply and easily with a bank account.</p>
   coins: [btc,ltc,ppc,doge]
-
-HardBlock:
-  label: HardBlock
-  countries: [au]
-  location: [au]
-  icon: https://www.hardblock.net/public/images/favIcon.png
-  url: https://www.hardblock.net
-  content:  The Safe, Fast and Cheap way to buy and sell Bitcoin in Australia. Buy over the counter with cash deposit.
-  coins: [btc]
 
 bitgo:
   label: Bitgo
@@ -1787,14 +1759,6 @@ coinmotion:
   url: http://coinmotion.com/
   content: Secure and easy way to buy, store and use bitcoin.  Familiar payment options and instant trades. Get your bitcoins in minutes!
   coins: [btc]
-  
-shopwithbitcoin:
-  label: Shop With Bitcoin
-  countries: [au]
-  location: [au]
-  url: http://shopwithbitcoin.com.au/
-  content: English
-  coins: [btc]
 
 bitcoinvietnam:
   label: Bitcoin Vietnam
@@ -1851,15 +1815,7 @@ bitcurex:
   url: https://pln.bitcurex.com/
   content: One of the largest exchange BTC - PLN accepting polish wire transfers.
   Coins: [btc]
-  
-cointree:
-  label: CoinTree
-  countries: [au]
-  location: [au]
-  url: http://www.cointree.com.au/
-  content: No fees. Buy bitcoin at CoinTree today using cash and online banking. Quick. Simple. Secure.  
-  coins: [btc]
-  
+
 takascoin:
   label: TakasCoin
   countries: [ro]
